@@ -26,3 +26,5 @@ TaskCampus es una aplicación web diseñada bajo la metodología Spec Driven Dev
 
 ## Integrantes del Grupo
 - Carlos Fernando Feijoo Zhangallimbay
+
+*Proyecto desarrollado para el semestre.*
