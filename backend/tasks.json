@@ -1,0 +1,20 @@
+[
+    {
+        "id": "fdf6d1ba-6067-4813-860d-49ce55fe8415",
+        "titulo": "JKBXJKEIUKLE",
+        "descripcion": "DEWRFEW",
+        "asignatura": "REWREW",
+        "fecha_entrega": "2026-05-30",
+        "prioridad": "baja",
+        "estado": "finalizada"
+    },
+    {
+        "id": "6d66cef1-97b7-4e6f-9193-2d15de4ab6d3",
+        "titulo": "REWREW",
+        "descripcion": "4R3R34",
+        "asignatura": "R43R43",
+        "fecha_entrega": "2026-05-28",
+        "prioridad": "media",
+        "estado": "pendiente"
+    }
+]
