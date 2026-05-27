@@ -1,0 +1,29 @@
+[
+    {
+        "id": "fdf6d1ba-6067-4813-860d-49ce55fe8415",
+        "titulo": "Deber de Cartuche",
+        "descripcion": "Realizar una pagina web",
+        "asignatura": "Programacion Movil",
+        "fecha_entrega": "2026-05-30",
+        "prioridad": "alta",
+        "estado": "en proceso"
+    },
+    {
+        "id": "6d66cef1-97b7-4e6f-9193-2d15de4ab6d3",
+        "titulo": "Deber de Nancy",
+        "descripcion": "Realizar CAE1 de Windows Server",
+        "asignatura": "Sistemas Operativos lll",
+        "fecha_entrega": "2026-05-28",
+        "prioridad": "baja",
+        "estado": "finalizada"
+    },
+    {
+        "id": "cdd72f6c-a3fd-446e-bc0f-3bb49bf42a44",
+        "titulo": "Portafolio Parcial 1",
+        "descripcion": "Diarios de Clases",
+        "asignatura": "Seguridad de Redes",
+        "fecha_entrega": "2026-05-28",
+        "prioridad": "media",
+        "estado": "pendiente"
+    }
+]
